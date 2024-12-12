@@ -23578,6 +23578,30 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Inco Gentry Testnet",
+  "chain": "INCO",
+  "rpc": ["https://testnet.inco.org"],
+  "faucets": ["https://faucet.inco.org"],
+  "nativeCurrency": {
+    "name": "INCO",
+    "symbol": "INCO",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://www.inco.org",
+  "shortName": "inco-gentry",
+  "chainId": 9090,
+  "networkId": 9090,
+  "explorers": [{
+    "name": "Inco Gentry Testnet Explorer",
+    "url": "https://explorer.testnet.inco.org",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "KPA Smart Chain Testnet",
   "chain": "KSC",
   "rpc": ["https://tkpa-rpc1.kpachain.com/", "https://tkpa-rpc2.kpachain.com/", "https://tkpa-rpc3.kpachain.com/", "https://tkpa-rpc4.kpachain.com/", "https://testnet-rpc1.kpascan.com/", "https://testnet-rpc2.kpascan.com/", "https://testnet-rpc3.kpascan.com/", "https://testnet-rpc4.kpascan.com/"],
@@ -30533,6 +30557,30 @@
       "url": "https://portal.sophon.xyz/bridge"
     }]
   }
+}, {
+  "name": "Somnia Devnet",
+  "chain": "Somnia",
+  "rpc": ["https://dream-rpc.somnia.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Somnia Devnet",
+    "symbol": "STT",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }],
+  "infoURL": "https://somnia.network",
+  "shortName": "STT",
+  "chainId": 50311,
+  "networkId": 50311,
+  "icon": "somnia",
+  "explorers": [{
+    "name": "Somnia Devnet",
+    "url": "https://somnia-devnet.socialscan.io",
+    "icon": "somnia",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Reddio Devnet",
   "title": "Reddio Sepolia L2 Rollup Devnet",

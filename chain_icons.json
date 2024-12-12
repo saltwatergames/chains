@@ -271,6 +271,14 @@
     "format": "png"
   }]
 }, {
+  "name": "somnia",
+  "icons": [{
+    "url": "ipfs://bafkreihcfqyihbbqunsozmiwyzk57gcwc5bs2ovo4kkypahe37brdwjlsy",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
+  }]
+}, {
   "name": "zero-sepolia",
   "icons": [{
     "url": "ipfs://QmWpvBtmDhZSAnRww5ZU6BvEbDbxKEzoyjWcanjc1UBD9X",

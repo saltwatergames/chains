@@ -14429,6 +14429,19 @@
   "faucets": [],
   "infoURL": "https://apexfusion.org/"
 }, {
+  "name": "Inco Gentry Testnet",
+  "chainId": 9090,
+  "shortName": "inco-gentry",
+  "networkId": 9090,
+  "nativeCurrency": {
+    "name": "INCO",
+    "symbol": "INCO",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.inco.org"],
+  "faucets": ["https://faucet.inco.org"],
+  "infoURL": "https://www.inco.org"
+}, {
   "name": "KPA Smart Chain Testnet",
   "chainId": 9091,
   "shortName": "KPA",
@@ -18640,6 +18653,19 @@
   "rpc": ["https://rpc.sophon.xyz", "wss://rpc.sophon.xyz/ws"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "Somnia Devnet",
+  "chainId": 50311,
+  "shortName": "STT",
+  "networkId": 50311,
+  "nativeCurrency": {
+    "name": "Somnia Devnet",
+    "symbol": "STT",
+    "decimals": 18
+  },
+  "rpc": ["https://dream-rpc.somnia.network"],
+  "faucets": [],
+  "infoURL": "https://somnia.network"
 }, {
   "name": "Reddio Devnet",
   "chainId": 50341,
